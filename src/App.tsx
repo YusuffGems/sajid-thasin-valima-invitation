@@ -1,5 +1,4 @@
 import { Hero } from "./components/hero/Hero";
-import { RsvpSection } from "./components/rsvp/RsvpSection";
 import { Compliments } from "./components/sections/Compliments";
 import { Countdown } from "./components/sections/Countdown";
 import { EventCard } from "./components/sections/EventCard";
@@ -18,7 +17,6 @@ export default function App() {
         <Countdown />
         <EventCard />
         <Compliments />
-        {/* <RsvpSection /> */}
       </main>
       <div className="closing">
         <ThankYou />
