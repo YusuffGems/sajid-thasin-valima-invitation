@@ -54,7 +54,7 @@ export const invitation: InvitationConfig = {
   compliments: [
     [
       "Haji. K.T. Mohamed Mohideen",
-      "Haji. M.S. Arief.",
+      "Haji. M.S. Arieeff.",
       "S. Shakir Basha.",
       "R.S. Madhar",
     ],
